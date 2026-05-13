@@ -25,24 +25,6 @@ Análise de dados educacionais da **Associação Passos Mágicos** utilizando os
 
 ---
 
-## 🔍 As 11 Análises
-
-| # | Indicador | Pergunta |
-|---|-----------|----------|
-| 1 | IAN | Perfil de defasagem dos alunos |
-| 2 | IDA | Evolução do desempenho acadêmico |
-| 3 | IEG | Correlação engajamento vs desempenho |
-| 4 | IAA | Coerência da autoavaliação |
-| 5 | IPS | Padrões psicossociais e desempenho |
-| 6 | IPP | Psicopedagógico vs adequação ao nível |
-| 7 | IPV | Fatores que influenciam o ponto de virada |
-| 8 | Multi | Combinações ótimas de indicadores |
-| 9 | ML | Modelo preditivo de risco de defasagem |
-| 10 | Efetividade | Impacto do programa por fase/pedra |
-| 11 | Insights | Análises criativas (gênero, tempo, escola) |
-
----
-
 ## 🤖 Modelo de Machine Learning
 
 **Algoritmo:** Random Forest Classifier  
@@ -56,19 +38,7 @@ Análise de dados educacionais da **Associação Passos Mágicos** utilizando os
 
 ---
 
-## 🚀 Deploy do App Streamlit
-
-```bash
-cd streamlit_app
-pip install -r requirements.txt
-streamlit run app.py
-```
-
-**Deploy no Streamlit Community Cloud:**
-1. Faça fork/push deste repositório para o GitHub
-2. Acesse [share.streamlit.io](https://share.streamlit.io)
-3. Conecte o repositório e selecione `streamlit_app/app.py`
-4. Clique em Deploy!
+## 🚀 Streamlit: https://venanciofmoura-tech-challenge-5.streamlit.app/
 
 ---
 
